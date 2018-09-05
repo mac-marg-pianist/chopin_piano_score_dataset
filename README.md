@@ -1,4 +1,4 @@
-# Chopin_XML_Scores
+# Chopin Piano Score Data Set
 The Chopin Piano Score Data Set(score_xml, score_midi) is for our research purposes. See a complete list of scores in [here](./filelist.txt).
 
 #### Credit
